@@ -8,8 +8,7 @@ public class HelloWorldMain {
 		System.out.println(" ----------------------------------------");
 		
 		
-		System.out.println("This is from modifyWelcomeMessage branch");
-		System.out.println("End..");
+		System.out.println("This is from CreatePersonVO branch");
 
 	}
 	
