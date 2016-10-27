@@ -6,6 +6,10 @@ public class HelloWorldMain {
 		System.out.println("Welcome to Pointwest!");
 		System.out.println("This is your first Git Tutorial!");
 		System.out.println(" ----------------------------------------");
+		
+		
+		System.out.println("This is from modifyWelcomeMessage branch");
+		System.out.println("End..");
 
 	}
 	
