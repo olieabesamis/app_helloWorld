@@ -23,6 +23,9 @@
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
+			<pluginGroups>
+  <pluginGroup>org.apache.tomcat.maven</pluginGroup>
+</pluginGroups>
 		</plugins>
 	</build>
 	<dependencies>
