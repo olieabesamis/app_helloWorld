@@ -6,7 +6,7 @@
 	 <packaging>war</packaging>
 	 <!-- sample comment to trigger auto build and deploy!!!-->
    <build>
-		<sourceDirectory>src</sourceDirectory>    
+		<sourceDirectory>src</sourceDirectory>         
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
