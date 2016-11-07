@@ -4,7 +4,8 @@
   <artifactId>app_helloWorld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 	 <packaging>war</packaging>
-	 <!-- sample comment to trigger auto build and deploy!!!-->              
+	 <!-- sample comment to trigger auto build and deploy!!!-->   
+		<!-- another comment -->
    <build>
 		<sourceDirectory>src</sourceDirectory>           
 		<plugins>
